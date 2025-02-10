@@ -1,4 +1,4 @@
-package com.mymauilibrary;
+package com.aicaptionlibrary;
 
 public class CalculatorService2 implements ICalculatorService {
     // Remove the static block that loads the library

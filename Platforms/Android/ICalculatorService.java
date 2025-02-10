@@ -1,4 +1,4 @@
-package com.mymauilibrary;
+package com.aicaptionlibrary;
 
 public interface ICalculatorService {
     int addNumbers(int a, int b);  // Changed name to avoid conflict

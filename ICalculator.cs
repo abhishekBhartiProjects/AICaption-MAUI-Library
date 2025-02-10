@@ -1,4 +1,4 @@
-namespace Com.Mymauilibrary;
+namespace Com.AICaptionLibrary;
 
 public interface ICalculator
 {
